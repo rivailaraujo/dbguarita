@@ -35,11 +35,7 @@
             "name": "Sala de Aula 101",
             "image": "../../../../assets/imgs/saladeaula.jpg",
             "status": "Disponível",
-            "usuoariosok": [
-                {
-                    "token": "eyJpZCI6IjIiLCJub21lIjoiTHVjYXMgU2EiLCJ0aXBvIjoiYWx1bm8iLCJjcGYiOiIwMTg1NDgyMDIzMCIsImVtYWlsIjoibHVjYXNAZ21haWwuY29tIiwiYWwiOiJIUzI1NiIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.5Xhcyux2GVpTEhwuSHryXvz6Zy90htplt_7nwUm-r6w"
-                }
-            ],
+            "token": "eyJpZCI6IjIiLCJub21lIjoiTHVjYXMgU2EiLCJ0aXBvIjoiYWx1bm8iLCJjcGYiOiIwMTg1NDgyMDIzMCIsImVtYWlsIjoibHVjYXNAZ21haWwuY29tIiwiYWwiOiJIUzI1NiIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.5Xhcyux2GVpTEhwuSHryXvz6Zy90htplt_7nwUm-r6w",
             "feed": [
               {
                 "id": "1",
