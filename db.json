@@ -16,7 +16,15 @@
             "email": "lucas@gmail.com",
             "al": "HS256",
             "alg": "HS256"
-          }
+        },
+        {
+          "id": "3",
+          "nome": "Marcela Poenna",
+          "tipo": "coodenação",
+          "email": "marcela@gmail.com",
+          "al": "HS256",
+          "alg": "HS256"
+        }
     ],
     "salas":[
         {
