@@ -1,9 +1,64 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "Rivail Araujo",
+            "token": "eyJpZCI6IjEiLCJub21lIjoiUml2YWlsIEFyYXVqbyIsInRpcG8iOiJwb3J0YXJpYSIsImVtYWlsIjoiYXJhdWpvcml2YWlsQGdtYWlsLmNvbSIsImFsIjoiSFMyNTYiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ._-Bdys7u9rXrud4pt85IKGzmmAHP-mYH_IObOpLS9FI",
+            "tipo": "portaria",
+            "email": "araujorivail@gmail.com",
+            "al": "HS256",
+            "alg": "HS256"
+        },
+        {
+            "id": "2",
+            "nome": "Lucas Sa",
+            "tipo": "aluno",
+            "email": "lucas@gmail.com",
+            "al": "HS256",
+            "alg": "HS256"
+          }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+    "salas":[
+        {
+            "id": "1",
+            "name": "Sala de Aula 101",
+            "image": "../../../../assets/imgs/saladeaula.jpg",
+            "status": "Disponível",
+            "usuoariosok": [
+                {
+                    "token": "eyJpZCI6IjEiLCJub21lIjoiUml2YWlsIEFyYXVqbyIsInRpcG8iOiJwb3J0YXJpYSIsImVtYWlsIjoiYXJhdWpvcml2YWlsQGdtYWlsLmNvbSIsImFsIjoiSFMyNTYiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ._-Bdys7u9rXrud4pt85IKGzmmAHP-mYH_IObOpLS9FI"
+                }
+            ]
+
+          
+          }, {
+            "name": "Sala de Aula 102",
+            "image": " ../../../../assets/imgs/saladeaula.jpg",
+            "status": "Disponível"
+          }, {
+            "name": "Sala de Aula 103",
+            "image": " ../../../../assets/imgs/saladeaula.jpg",
+            "status": "Disponível"
+       
+          }, {
+            "name": "Laboratório 1",
+            "image": " ../../../../assets/imgs/labs.png",
+            "status": "Disponível"
+
+          }, {
+            "name": "Laboratório 2",
+            "image": " ../../../../assets/imgs/labs.png",
+            "status": " Disponível"
+
+          }, {
+            "name": "Administração",
+            "image": " ../../../../assets/imgs/adm.png",
+            "status": "Disponível"
+
+          }, {
+            "name": "Centro Acadêmico",
+            "image": " ../../../../assets/imgs/academico.png",
+            "status": "Disponível"
+          }
+    ]
   }
