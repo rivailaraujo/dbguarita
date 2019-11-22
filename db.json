@@ -36,6 +36,15 @@
                 {
                     "token": "eyJpZCI6IjEiLCJub21lIjoiUml2YWlsIEFyYXVqbyIsInRpcG8iOiJwb3J0YXJpYSIsImVtYWlsIjoiYXJhdWpvcml2YWlsQGdtYWlsLmNvbSIsImFsIjoiSFMyNTYiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ._-Bdys7u9rXrud4pt85IKGzmmAHP-mYH_IObOpLS9FI"
                 }
+            ],
+            "feed": [
+              {
+                "id": "1",
+                "userAvatar": "../../../../assets/imgs/saladeaula.jpg",
+                "quem": "sistema",
+                "tipo": "disponivel",
+                "message": "A sala esta Disponível!"
+              }
             ]
 
           
