@@ -40,30 +40,36 @@
 
           
           }, {
+            "id": "2",
             "name": "Sala de Aula 102",
             "image": " ../../../../assets/imgs/saladeaula.jpg",
             "status": "Disponível"
           }, {
+            "id": "3",
             "name": "Sala de Aula 103",
             "image": " ../../../../assets/imgs/saladeaula.jpg",
             "status": "Disponível"
        
           }, {
+            "id": "4",
             "name": "Laboratório 1",
             "image": " ../../../../assets/imgs/labs.png",
             "status": "Disponível"
 
           }, {
+            "id": "5",
             "name": "Laboratório 2",
             "image": " ../../../../assets/imgs/labs.png",
             "status": " Disponível"
 
           }, {
+            "id": "6",
             "name": "Administração",
             "image": " ../../../../assets/imgs/adm.png",
             "status": "Disponível"
 
           }, {
+            "id": "7",
             "name": "Centro Acadêmico",
             "image": " ../../../../assets/imgs/academico.png",
             "status": "Disponível"
