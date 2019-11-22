@@ -5,7 +5,6 @@
             "nome": "Rivail Araujo",
             "token": "eyJpZCI6IjEiLCJub21lIjoiUml2YWlsIEFyYXVqbyIsInRpcG8iOiJwb3J0YXJpYSIsImVtYWlsIjoiYXJhdWpvcml2YWlsQGdtYWlsLmNvbSIsImFsIjoiSFMyNTYiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ._-Bdys7u9rXrud4pt85IKGzmmAHP-mYH_IObOpLS9FI",
             "tipo": "portaria",
-            "cpf": "01854820230",
             "email": "araujorivail@gmail.com",
             "al": "HS256",
             "alg": "HS256"
