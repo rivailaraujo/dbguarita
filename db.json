@@ -14,6 +14,8 @@
             "id": "2",
             "nome": "Lucas Sa",
             "tipo": "aluno",
+            "token": "eyJpZCI6IjIiLCJub21lIjoiTHVjYXMgU2EiLCJ0aXBvIjoiYWx1bm8iLCJjcGYiOiIwMTg1NDgyMDIzMCIsImVtYWlsIjoibHVjYXNAZ21haWwuY29tIiwiYWwiOiJIUzI1NiIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.5Xhcyux2GVpTEhwuSHryXvz6Zy90htplt_7nwUm-r6w",
+            "cpf": "01854820230",
             "email": "lucas@gmail.com",
             "al": "HS256",
             "alg": "HS256"
@@ -35,7 +37,7 @@
             "status": "Disponível",
             "usuoariosok": [
                 {
-                    "token": "eyJpZCI6IjEiLCJub21lIjoiUml2YWlsIEFyYXVqbyIsInRpcG8iOiJwb3J0YXJpYSIsImVtYWlsIjoiYXJhdWpvcml2YWlsQGdtYWlsLmNvbSIsImFsIjoiSFMyNTYiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ._-Bdys7u9rXrud4pt85IKGzmmAHP-mYH_IObOpLS9FI"
+                    "token": "eyJpZCI6IjIiLCJub21lIjoiTHVjYXMgU2EiLCJ0aXBvIjoiYWx1bm8iLCJjcGYiOiIwMTg1NDgyMDIzMCIsImVtYWlsIjoibHVjYXNAZ21haWwuY29tIiwiYWwiOiJIUzI1NiIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.5Xhcyux2GVpTEhwuSHryXvz6Zy90htplt_7nwUm-r6w"
                 }
             ],
             "feed": [
